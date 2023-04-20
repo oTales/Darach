@@ -1,0 +1,1 @@
+ScrollReveal().reveal('.conteúdo',{delay:500});
